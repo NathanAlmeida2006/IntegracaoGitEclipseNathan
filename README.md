@@ -73,11 +73,5 @@ Antes de começar, certifique-se de que:
 
 ---
 
-## Dicas Adicionais
-- Habilite o modo **Dark Theme** em `File > Settings > Appearance & Behavior > Theme`.
-- Use plugins como **Lombok**, **Material Theme** e **CheckStyle** para melhorar sua experiência de desenvolvimento.
-
----
-
 ## Suporte
 Se você encontrar problemas durante a integração, consulte a [documentação oficial do IntelliJ IDEA](https://www.jetbrains.com/help/idea/) ou entre em contato com sua equipe de desenvolvimento.
